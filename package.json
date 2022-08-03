@@ -1,0 +1,7 @@
+{
+  "name": "symfony-easyadmin",
+  "version": "1.0.0",
+  "dependencies": {
+    "@symfony/webpack-encore": "^3.0.0"
+  }
+}
